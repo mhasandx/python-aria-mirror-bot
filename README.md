@@ -17,7 +17,7 @@ This project is heavily inspired from @out386 's telegram bot which is written i
 - Mirror telegram files
 
 # Upcoming features (TODOs):
-
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy) #Revived
 # How to deploy?
 Deploying is pretty much straight forward and is divided into several steps as follows:
 ## Installing requirements
